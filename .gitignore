@@ -1,0 +1,3 @@
+*.swp
+minisat_out.txt
+sudoku_cnf.txt
